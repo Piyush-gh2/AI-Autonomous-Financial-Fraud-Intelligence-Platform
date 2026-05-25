@@ -1,0 +1,9 @@
+transaction_id,amount,frequency,location_risk
+T101,200,2,Low
+T102,15000,20,High
+T103,300,1,Low
+T104,25000,30,High
+T105,12000,15,High
+T106,450,2,Low
+T107,18000,22,High
+T108,700,3,Low
